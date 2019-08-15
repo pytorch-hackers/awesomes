@@ -4,3 +4,4 @@
 * Interlaced to progressive
 * Tiktok auto play
 * News follow up (no data)
+* Dual camera measure distance

@@ -12,3 +12,4 @@
 * Detect soccer shooting
 * Using *Everybody Dance Now* to detect gestures
 * Predict financial crisis
+* Game remaster

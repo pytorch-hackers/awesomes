@@ -13,3 +13,4 @@
 * Using *Everybody Dance Now* to detect gestures
 * Predict financial crisis
 * Game remaster
+* Combine models to generate a new model
